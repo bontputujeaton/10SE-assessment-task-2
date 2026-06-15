@@ -17,4 +17,14 @@ Two tables that display attributes both an example and an additional table porta
 |Engine    |(e.g 250 HP)         |
 |Drive Type  |(e.g 4WD)|
 
+An example of a 'real' car including authentic attributes would include:
+
+|2020 Volvo XC60 T6 R-Design Auto|
+|-------------------|-------------|
+|Build Year          |2020          |
+|Price              |$37,000          |
+|Top Speed        |180 KM/H          |
+|Transmission       |8 SPEED A          |
+|Engine    |316 HP      |
+|Drive Type|AWD            |
 
