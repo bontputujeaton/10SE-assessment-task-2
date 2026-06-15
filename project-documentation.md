@@ -19,12 +19,14 @@ Two tables that display attributes both an example and an additional table porta
 
 An example of a 'real' car including authentic attributes would include:
 
-|2020 Volvo XC60 T6 R-Design Auto|
+**Example Car:** *2020 Volvo XC60 T6 R-Design Auto*
+|Attributes     |Example        |
 |-------------------|-------------|
-|Build Year          |2020          |
-|Price              |$37,000          |
-|Top Speed        |180 KM/H          |
-|Transmission       |8 SPEED A          |
-|Engine    |316 HP      |
-|Drive Type|AWD            |
+|Build Year         |2020       |
+|Price              |$37,000      |
+|Top Speed          |180 KM/H            |
+|Transmission       |8 SPEED A  |
+|Engine    |316 HP         |
+|Drive Type  |AWD|
+
 
