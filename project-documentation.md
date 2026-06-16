@@ -30,4 +30,7 @@ An example of a 'real' car including authentic attributes would include:
 |Drive Type  |AWD|
 
 ### Game Attributes (Ranked from the most powerful to the least powerful)
-**Engine (HP):**
+**Engine (HP):** The Engine Power is strong in Top Trumps as it is an easily comparable unit due to diverse performance in cars with horsepower directly affecting how fast and powerful a car is. However, measuring engine can be unfair as sports cars will almost always surpass regular everyday or family cars in this category.
+
+**Top Speed:** Top Speed is another performance based attribute which shows how the limit to how fast the car can travel. Top Speed is easy to rank amongst cars however it can also be unfair as like Engine Power this attribute also favours sport and high-performing cars.
+
