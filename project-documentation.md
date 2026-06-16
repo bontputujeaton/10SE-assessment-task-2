@@ -30,12 +30,14 @@ An example of a 'real' car including authentic attributes would include:
 |Drive Type  |AWD|
 
 ### Game Attributes (Ranked from the most powerful to the least powerful)
-**Engine (HP):** The Engine Power is strong in Top Trumps as it is an easily comparable unit due to diverse performance in cars with horsepower directly affecting how fast and powerful a car is. However, measuring engine can be unfair as sports cars will almost always surpass regular everyday or family cars in this category.
+**Engine (HP):** For my first game attribute, I chose Engine Power. Engine Power is strong in Top Trumps as it is an easily comparable unit due to diverse performance in cars with horsepower directly affecting how fast and powerful a car is. However, measuring engine can be unfair as sports cars will almost always surpass regular everyday or family cars in this category.
 
-**Top Speed:** Top Speed is another performance based attribute which shows how the limit to how fast the car can travel. Top Speed is a strong category for Top Trumps as it is easy to rank amongst cars, however it can also be unfair as like Engine Power, this attribute also favours sporty and high-performing cars.
+**Top Speed:** For my second attribute, I chose Top Speed. Top Speed is another performance based attribute which shows how the limit to how fast the car can travel. Top Speed is a strong category for Top Trumps as it is easy to rank amongst cars, however it can also be unfair as like Engine Power, this attribute also favours sporty and high-performing cars.
 
-**Build Year:** The Build Year attribute, unlike Engine and Top Speed, does not support higher performance cars over other vehicles. It is a good choice for Top Trumps as it displays how new a car is, using improvements factors like efficiency, safety, design and technology. It is a fair aspect however it can be unfair towards older model cars that are higher in quality.
+**Build Year:** For my third attribute, I chose to add the Build Year. The Build Year attribute, unlike Engine and Top Speed, does not support higher performance cars over other vehicles. It is a good choice for Top Trumps as it displays how new a car is, using improvements factors like efficiency, safety, design and technology. It is a fair aspect however it can be unfair towards older model cars that are higher in quality.
 
-**Price:** Price is a more useful attribute in the Top Trumps game as it portrays the car's market value, making it easier to compare the different cars. It also adds a realistic detail to Top Trumps but it can be an unfair feature because more expensive cars can usually win if cost is picked over a performance or safety category.
+**Price:** For my fourth attribute, I chose Price. Price is a more useful attribute in the Top Trumps game as it portrays the car's market value, making it easier to compare the different cars. It also adds a realistic detail to Top Trumps but it can be an unfair feature because more expensive cars can usually win if cost is picked over a performance or safety category.
+
+**ANCAP Safety Rating:** For my fifth attribute, I chose the ANCAP Safety Rating. The ANCAP Safety Rating is another powerful and fair attribute because it reflects how safe and well a car can protect people in actual real world crashes and accidents. It balances the advantage of sports cars in other categories as family and everyday cars can now be put into level competition. It is mostly fair, however most newer model cars would have the highest ratings and win this aspect.
 
 
