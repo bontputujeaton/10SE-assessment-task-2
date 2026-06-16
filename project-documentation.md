@@ -51,74 +51,76 @@ An example of a 'real' car including authentic attributes would include:
 
 **Attributes:** All the attributes for the 'Car' class would include:
 
-- name: String
-- picture: Image
-- model: String
-- price: Float
-- buildYear: Integer
-- topSpeed: Integer
-- safetyStarRating: Float
-- enginePower: Integer
-- driveType: String
+- name: string
+- picture: image
+- model: string
+- price: float
+- buildYear: int
+- topSpeed: int
+- safetyStarRating: float
+- enginePower: int
+- driveType: string
 
 **Methods:** The methods for the 'Car' class would include:
 
-- getCarAttribute(car_attributeName)
-- displayCarDetails()
+- getCarAttribute(car_attributeName): string
+- displayCarDetails(): void
 
 ### Class - Card:
 **Role of this class:** The 'Card' class represents a Top Trumps card that is used in the game. It contains a 'Car' object and displays the vehicle's attributes, (in this instance, from carsales.com) and data to the user so players can compare during playing.
 
 **Attributes:** All the attributes for the 'Card' class would include:
 
-- gameCardID
-- car
+- gameCardID: int
+- car: 'Car'
 
 **Methods:** The methods for the 'Card' class would include:
 
-- displayCard
+- displayCard: void
 
 ### Class - Deck:
 **Role of this class:** The 'Deck' class manages all the Top Trumps cards in the game. It stores all the cards, shuffles them randomly and distributes them to players in order for fair gameplay to be achieved.
 
 **Attributes:** All the attributes for the 'Deck' class would include:
 
-- cards
+- cards(): array (Card)
 
 **Methods:** The methods for the 'Deck' class would include:
 
-- shuffleCards()
-- distributeCards()
-- drawaCard()
+- shuffleCards(): void
+- distributeCards(): void
+- drawaCard(): 'Card'
 
 ### Class - Player:
 **Role of this class:** The 'Player' class represents a real player in the game. The class stores the participant's card, score, and the choices the player makes during the game, like recording an attribute they select to compare with.
 
 **Attributes:** All the attributes for the 'Player' class would include:
 
-- name
-- playerCards
-- score
+- name: string
+- playerCards: array (Card)
+- score: int
 
 **Methods:** The methods for the 'Player' class would include:
 
-selectAttribute()
-receivePlayerCard()
-addPoint()
+- selectAttribute(): string
+- receivePlayerCard(): void
+- addPoint(): void
 
 ### Class - Game:
 **Role of this class:** The 'Game' class controls the entire Top Trumps program. It manages the game by controlling all the rounds, (wins, who won the round, losses, who lost the round, and draws.) It updates scores in real time and decides when the game starts and ends.
 
 **Attributes:** All the attributes for the 'Game' class would include:
 
-- player
-- cardDeck
-- roundNumber
+- player: array (Player)
+- cardDeck: deck
+- roundNumber: int
 
 **Methods:** The methods for the 'Game' class would include:
 
-- startGame()
-- playRound()
-- updateScore()
-- results()
-- endRound()
+- startGame(): void
+- playRound(): void
+- updateScore(): int
+- results(): 'Player'
+- endRound(): void
+
+## Part C - UML Class Diagram
