@@ -106,3 +106,19 @@ selectAttribute()
 receivePlayerCard()
 addPoint()
 
+### Class - Game:
+**Role of this class:** The 'Game' class controls the entire Top Trumps program. It manages the game by controlling all the rounds, (wins, who won the round, losses, who lost the round, and draws.) It updates scores in real time and decides when the game starts and ends.
+
+**Attributes:** All the attributes for the 'Game' class would include:
+
+- player
+- cardDeck
+- roundNumber
+
+**Methods:** The methods for the 'Game' class would include:
+
+- startGame()
+- playRound()
+- updateScore()
+- results()
+- endRound()
