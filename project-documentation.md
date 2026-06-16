@@ -40,4 +40,4 @@ An example of a 'real' car including authentic attributes would include:
 
 **ANCAP Safety Rating:** For my fifth attribute, I chose the ANCAP Safety Rating. The ANCAP Safety Rating is another powerful and fair attribute because it reflects how safe and well a car can protect people in actual real world crashes and accidents. It balances the advantage of sports cars in other categories as family and everyday cars can now be put into level competition. It is mostly fair, however most newer model cars would have the highest ratings and win this aspect.
 
-
+**Drive Type:** For my sixth, final and least powerful attribute I chose Drive Type. The Drive Type attribute (4WD, AWD, RWD, etc.) is the weakest as unlike the other statistics including numbered amounts, the Drive measures in categorical form. Drive Type is a more unfair attribute as while it affects performance and the handling of a car, its hard to rank fairly in the game due to the limited range of types.
