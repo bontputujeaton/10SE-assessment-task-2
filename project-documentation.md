@@ -29,4 +29,5 @@ An example of a 'real' car including authentic attributes would include:
 |Engine    |316 HP         |
 |Drive Type  |AWD|
 
-
+### Game Attributes (Ranked from the most powerful to the least powerful)
+**Engine (HP):**
