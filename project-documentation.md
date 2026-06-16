@@ -47,7 +47,7 @@ An example of a 'real' car including authentic attributes would include:
 ## Part B - Class Design
 
 ### Class - Car:
-**What is the Role of this class?** The 'Car' class stores all the information or attributes of a specific vehicle. It is the main source for data used in the card comparisons and displays the information on each card.
+**Role of this class:** The 'Car' class stores all the information or attributes of a specific vehicle. It is the main source for data used in the card comparisons and displays the information on each card.
 
 **Attributes:** All the attributes for the 'Car' class would include:
 - name: String
@@ -64,5 +64,15 @@ An example of a 'real' car including authentic attributes would include:
 
 - getCarAttribute(car_attributeName)
 - displayCarDetails()
+
+### Class - Card:
+**Role of this class:** The 'Card' class represents a Top Trumps card that is used in the game. It contains a 'Car' object and displays the vehicle's attributes and data to the user so players can compare during playing.
+
+**Attributes:** All the attributes for the 'Card' class would include:
+- gameCardID
+- car
+
+**Methods:** The methods for the 'Card' class would include:
+- displayCard
 
 
