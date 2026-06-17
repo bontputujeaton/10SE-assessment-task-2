@@ -126,8 +126,16 @@ An example of a 'real' car including authentic attributes would include:
 
 ## Part C - UML Class Diagram
 
-(Add UML Class Diagram Here)
+### UML Class Diagram
+
+*This is the UML class diagram overview for my Top Trumps Game:*
 ![Top Trumps Game - UML Class Diagram](uml-class-diagram.png)
+
+### Design Decisions
+
+**Decision #1:** The 'Game' to 'Player' class is association and not aggregation or composition. The players in the game represent real people who exist on their own in the game. They aren't created by the game and don't get destroyed or removed when a game ends (as they can start a new one afterwards.) The game simply controls the participant during gameplay, so association is more suitable than the others.
+
+**Decision #2:** The 'Card' class carries its own "gameCardID" which is separate from the 'Car' classes attributes. This differentiates an individual game card from the vehicle data it represents. This way, the same object in the 'Car' class can be used by multiple 'Card' class objects across the deck without duplicating or causing errors in the data.
 
 ## Part D - Game Mechanics Design
 
