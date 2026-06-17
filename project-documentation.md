@@ -140,4 +140,21 @@ An example of a 'real' car including authentic attributes would include:
 ## Part D - Game Mechanics Design
 
 ### How a Round is Played:
-At the start of the game, the deck of cards with various card information is distributed evenly between two players, with amount of cards they choose (20-60 cards depending on how long the players want the game to last for)
+At the start of the game, the players can select the amount of cards played in the game depending on how long they want the game to last for. Once the agreed amount is decided on, the deck of cards with the various car information is distributed evenly between two players, where they must have to place their cards face down in their seperate piles. During each round, the players must reveal the top card from their pile. In the first round, a random player is chosen to select the attribute. In every round after the beginning the player who won the previous round selects one attribute from their card to compare. After the attribute has been selected, all players compare the value of the chosen attribute on their revealed card. The player with the strongest value wins the round and earns one point. The winner then has the opportunity to select the attribute to be compared for the next round.
+
+### Attribute Selection and Comparison Rules:
+
+*For each attribute, the winner is determined by:*
+
+Build Year – The newest vehicle wins.
+Price – The lowest price of vehicle wins.
+Top Speed – The highest top speed vehicle wins.
+ANCAP Safety Rating – The highest safety rating on the compared vehicles win.
+Engine Power – The highest horsepower (hp) on a vehicle wins.
+Drive Type – Ranked from strongest to weakest as AWD, 4WD, RWD, then FWD.
+
+### Draws and Ending the Game
+
+If both players have the same highest value for the selected attribute, a draw occurs. The players reveal their next card and compare the same attribute again. The winner of the tie breaker receives the point for the round. 
+
+The game continues until all the cards every player's pile have been used. Once the final round has been completed, the player with the highest score from all the rounds is the winner.
