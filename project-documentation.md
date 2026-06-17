@@ -176,3 +176,19 @@ One potential unfair advantage that could arise is that a player with several hi
 ### Solution
 
 To reduce this unfair advantage, the player selecting the attribute may not choose the same attribute after already choosing it the previous round. This rule encourages a larger variety of comparisons and gives the different vehicle types a higher chance of winning the game.
+
+## Part E - Interface and Card Design
+
+> All these designs were created using Canva with relevant annotations. 
+
+**This is my design for the Top Trumps game card layout.**
+
+![game-card-design.png](game-card-design.png)
+
+**This is my design for the Top Trumps game title screen.**
+
+![title-screen-design.png](title-screen-design.png)
+
+**This is my design for the in-game interface.**
+
+![game-design.png](game-design.png)
