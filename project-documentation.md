@@ -12,9 +12,9 @@
 
 ### Data Selection (implemented with Examples:)
 
-For each card's statistics I've selected easy-to-understand attributes that each player, even many that aren't familiar with vehicles can interpret or easily get to understand. These specifications include: Build Year, Price, Top Speed, ANCAP Safety Ratings, Engine, and Drive Type. 
+* For each card's statistics I've selected easy-to-understand attributes that each player, even many that aren't familiar with vehicles can interpret or easily get to understand. These specifications include: Build Year, Price, Top Speed, ANCAP Safety Ratings, Engine, and Drive Type. 
 
-Two tables that display attributes both an example and an additional table portraying an example of a real car.
+    * Two tables that display attributes, with both an example and an additional table portraying an example of a real car.
 
 |Attributes     |Example        |
 |-------------------|-------------|
