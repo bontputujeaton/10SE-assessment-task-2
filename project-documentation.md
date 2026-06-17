@@ -185,10 +185,30 @@ To reduce this unfair advantage, the player selecting the attribute may not choo
 
 ![game-design.png](game-design.png)
 
-**This is my design for the Top Trumps game card layout.**
+**This is my design for the Top Trumps game card layout. (It is a more advanced design not the original simple one as the draft presents more advanced components such as a clock, and other information features.)**
 
 ![game-card-design.png](game-card-design.png)
 
 **This is my design for the Top Trumps game title screen.**
 
 ![title-screen-design.png](title-screen-design.png)
+
+## Part F - Social, Legal and Ethical Implications
+
+> You must critically analyse how your car comparison game impacts individuals, society, and the
+> environment. Using your designed system, respond to the following:
+**1. Individual Impact:** *How could your game influence user behaviour or decision-making? Could it encourage bias (e.g. favouring expensive or high-performance cars)? What responsibilities do you have as a designer to present fair information?*
+
+The Top Trumps car comparison game could influence user behaviour by encouraging the players to focus on certain vehicle characteristics when making comparisons. As players win by choosing strong attributes that match their high performing cars, attributes like Top Speed, Engine Power, and ANCAP Safety Rating, they may begin to view these attributes as the most important factors when comparing a vehicle. The game could also lean towards bias on high performance or newer built vehicles. Cars with higher horsepower, faster top speeds, and newer models may be viewed as superior in the player's eyes even though in the real world a person's vehicle choices depend on their needs, budget and their lifestyle. I have the responsibility as a designer to display fair and accurate information. I have attempted to reduce bias on sports cars by including assorted variety of attributes instead of those just beneffiting higher powered cars. These include the Price and ANCAP Safety Rating aspects.
+
+**2. Social Impact:** *How might your game reinforce stereotypes or inequalities such as wealth, status, access to vehicles? Does your system favour certain types of users or cars? How could your design be made more inclusive or fair?*  
+
+The game may reinforce social stereotypes like wealth, status, and vehicle ownership as newer or more expensive vehicles may appear better because they often perform much more efficient and are stronger than older models in several categories, not just favoured in the Top Trumps car comparison game. My system may favour certain types of cars, especially performance vehicles that are high ranked Top Speed and Engine Power attributes. To make the game more fair for the competing older, family or less higher value cars, additional attributes could be added such as fuel efficiency, maintenance costs, or passenger capacity.
+
+**3. Environmental Impact** *How could your game influence attitudes toward fuel use, emissions, or sustainability? Does your attribute selection promote or ignore environmental considerations? What changes could you make to encourage more environmentally responsible thinking?*
+
+The car comparison game could influence attitudes towards sustainability depending on the attributes that the players select. Because Top Speed and Engine Power are heavily included categories in my game, some players may have a preference for more powerful vehicles that consume more fuel and produce higher emissions. All the attributes I have currently selected focus on performance, value, and safety rather than environmental considerations. This means environmental impacts are not focused on that strongly within the game, and players may not look at important environmental factors when comparing their vehicles. To encourage more environmentally responsible thinking, a more developed and upgraded version of my game could include attributes such as fuel efficiency or an environmental rating based on how environmentally friendly a vehicle is.
+
+**4. Legal Considerations** *What legal issues could arise from using real-world car data, for example, ownership, copyright, or accuracy? What responsibilities do you have when displaying or using data inspired by platofrms live carsales.com.au? How would you ensure your system avoids misleading users?* 
+
+Using real world car data may create legal issues relating to copyright, ownership, and data accuracy as vehicle data and specifications, images, and other kinds of information sourced from websites like carsales.com.au may be protected by copyright and can't be copied without permission. When using data from platforms such as carsales.com.au, my responsibility is to make sure the information is accurate, recent, and is for the correct and appropriate use. To avoid misleading users, my game should clearly state instructions and that it is a project designed for educational or entertainment purposes only.
