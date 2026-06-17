@@ -122,5 +122,13 @@ An example of a 'real' car including authentic attributes would include:
 - updateScore(): int
 - results(): 'Player'
 - endRound(): void
+- endGame(): void
 
 ## Part C - UML Class Diagram
+
+(Add UML Class Diagram Here)
+
+## Part D - Game Mechanics Design
+
+### How a Round is Played:
+At the start of the game, the deck of cards with various card information is distributed evenly between two players, with amount of cards they choose (20-60 cards depending on how long the players want the game to last for)
