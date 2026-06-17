@@ -158,3 +158,21 @@ Drive Type – Ranked from strongest to weakest as AWD, 4WD, RWD, then FWD.
 If both players have the same highest value for the selected attribute, a draw occurs. The players reveal their next card and compare the same attribute again. The winner of the tie breaker receives the point for the round. 
 
 The game continues until all the cards every player's pile have been used. Once the final round has been completed, the player with the highest score from all the rounds is the winner.
+
+### Game Balance
+
+The Top Trumps game has been designed to remain inclusive and balanced by including a diverse mix of performance, value and safety characteristics. As a result, no bias is expected as no single car should consistently outperform the others in every category
+
+*For example:*
+
+- Sports and luxury cars may dominate in Top Speed and Engine Power.
+- Family vehicles like SUVs may have stronger Safety Ratings.
+- Budget and entry-level vehicles can perform well in the Price category.
+
+### Unfair Advantage
+
+One potential unfair advantage that could arise is that a player with several high performance or sport vehicles in their deck of cards could repeatedly choose the Top Speed or Engine Power attributes leading to winning multiple rounds.
+
+### Solution
+
+To reduce this unfair advantage, the player selecting the attribute may not choose the same attribute after already choosing it the previous round. This rule encourages a larger variety of comparisons and gives the different vehicle types a higher chance of winning the game.
