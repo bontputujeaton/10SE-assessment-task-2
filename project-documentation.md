@@ -1,6 +1,12 @@
 # 10SE6A Task 2 - Project Documentation
 
-In this Assessment Task 
+> In this Assessment Task, the project is to design a “Top Trumps” style card game using real-world car data inspired by **carsales.com.au.** Each card represents a car and contains attributes. Players compare attributes to win rounds.
+
+> This task focuses on:
+> - object-oriented thinking
+> - system design
+> - diagramming
+> - justification of decisions
 
 ## Part A - Data Selection & Game Attributes
 
