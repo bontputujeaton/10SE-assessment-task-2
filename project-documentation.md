@@ -181,6 +181,10 @@ To reduce this unfair advantage, the player selecting the attribute may not choo
 
 > All these designs were created using Canva with relevant annotations. 
 
+**This is my design for the in-game interface.**
+
+![game-design.png](game-design.png)
+
 **This is my design for the Top Trumps game card layout.**
 
 ![game-card-design.png](game-card-design.png)
@@ -188,7 +192,3 @@ To reduce this unfair advantage, the player selecting the attribute may not choo
 **This is my design for the Top Trumps game title screen.**
 
 ![title-screen-design.png](title-screen-design.png)
-
-**This is my design for the in-game interface.**
-
-![game-design.png](game-design.png)
