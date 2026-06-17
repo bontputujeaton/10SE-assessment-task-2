@@ -127,6 +127,7 @@ An example of a 'real' car including authentic attributes would include:
 ## Part C - UML Class Diagram
 
 (Add UML Class Diagram Here)
+![Top Trumps Game - UML Class Diagram](uml-class-diagram.png)
 
 ## Part D - Game Mechanics Design
 
