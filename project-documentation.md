@@ -134,7 +134,7 @@ An example of a 'real' car including authentic attributes would include:
 
 ### UML Class Diagram
 
-> This is the UML class diagram overview for my Top Trumps Game. Made on Excalidraw
+> This is the UML class diagram designed for my Top Trumps Game. (Made on Excalidraw):
 ![Top Trumps Game - UML Class Diagram](uml-class-diagram.png)
 
 ### Design Decisions
@@ -184,7 +184,7 @@ One potential unfair advantage that could arise is that a player with several hi
 To reduce this unfair advantage, the player selecting the attribute may not choose the same attribute after already choosing it the previous round. This rule encourages a larger variety of comparisons and gives the different vehicle types a higher chance of winning the game.
 
 **Structure Chart:**
-> Structure chart display overall game design. Made on Excalidraw
+> This is my Structure chart designed to display my overall game design. (Made on Excalidraw):
 ![structure-chart.png](structure-chart.png)
 
 ## Part E - Interface and Card Design
@@ -207,6 +207,7 @@ To reduce this unfair advantage, the player selecting the attribute may not choo
 
 > You must critically analyse how your car comparison game impacts individuals, society, and the
 > environment. Using your designed system, respond to the following:
+
 **1. Individual Impact:** *How could your game influence user behaviour or decision-making? Could it encourage bias (e.g. favouring expensive or high-performance cars)? What responsibilities do you have as a designer to present fair information?*
 
 The Top Trumps car comparison game could influence user behaviour by encouraging the players to focus on certain vehicle characteristics when making comparisons. As players win by choosing strong attributes that match their high performing cars, attributes like Top Speed, Engine Power, and ANCAP Safety Rating, they may begin to view these attributes as the most important factors when comparing a vehicle. The game could also lean towards bias on high performance or newer built vehicles. Cars with higher horsepower, faster top speeds, and newer models may be viewed as superior in the player's eyes even though in the real world a person's vehicle choices depend on their needs, budget and their lifestyle. I have the responsibility as a designer to display fair and accurate information. I have attempted to reduce bias on sports cars by including assorted variety of attributes instead of those just beneffiting higher powered cars. These include the Price and ANCAP Safety Rating aspects.
