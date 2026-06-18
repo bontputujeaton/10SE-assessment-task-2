@@ -134,7 +134,7 @@ An example of a 'real' car including authentic attributes would include:
 
 ### UML Class Diagram
 
-*This is the UML class diagram overview for my Top Trumps Game:*
+> This is the UML class diagram overview for my Top Trumps Game. Made on Excalidraw
 ![Top Trumps Game - UML Class Diagram](uml-class-diagram.png)
 
 ### Design Decisions
@@ -184,6 +184,7 @@ One potential unfair advantage that could arise is that a player with several hi
 To reduce this unfair advantage, the player selecting the attribute may not choose the same attribute after already choosing it the previous round. This rule encourages a larger variety of comparisons and gives the different vehicle types a higher chance of winning the game.
 
 **Structure Chart:**
+> Structure chart display overall game design. Made on Excalidraw
 ![structure-chart.png](structure-chart.png)
 
 ## Part E - Interface and Card Design
